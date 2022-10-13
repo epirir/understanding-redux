@@ -1,0 +1,1 @@
+This is an exercise to help understand redux using JS vanilla and Redux library.
